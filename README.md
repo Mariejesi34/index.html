@@ -78,47 +78,44 @@
     <body>
         <main class="container">
             <section class="header">
-                <h1>Your Name</h1>
+                <h1> Jessica Allen </h1>
                 <p class="contact">
                     Email:
-                    <a href="mailto:yourname@example.com"
+                    <a href="jesibabe21@gmail.com"
                         >yourname@example.com</a
                     >
-                    | Phone: (123) 456-7890 | LinkedIn:
-                    <a href="#">linkedin.com/in/yourname</a>
+                    | Phone: (513) 780 - 4904 | LinkedIn:
+                    <a href="#">www.linkedin.com/in/jessica-allen-2140027b </a>
                 </p>
             </section>
             <section class="section">
                 <h2>Summary</h2>
                 <p>
-                    A brief summary about yourself, your skills, and what you
-                    bring to the table. Keep it concise and impactful.
+                    I have alot of computer experience in various jobs and inside of school. I have held specialists positions in warehouses in which i created shelving within their computer programs to bring in more product and clientelle. I am a hardworker and organized. 
                 </p>
             </section>
             <section class="section">
                 <h2>Work Experience</h2>
                 <div class="item">
-                    <h3>Job Title - Company Name</h3>
-                    <p>Dates of Employment</p>
+                    <h3>ware house specialist - Newgistics</h3>
+                    <p> aug 2014 - june 2016 </p>
                     <p>
-                        Brief description of your responsibilities and
-                        achievements in this role.
+                       i created shelving within the computer program to bring more product and clients. I also was a forklift driver that did special projects with a small team.
                     </p>
                 </div>
                 <div class="item">
-                    <h3>Job Title - Company Name</h3>
-                    <p>Dates of Employment</p>
+                    <h3> forklift driver - Wayfair </h3>
+                    <p> july 2018 - march 2019 </p>
                     <p>
-                        Brief description of your responsibilities and
-                        achievements in this role.
+                       I was a bulk forklift driver for the company.
                     </p>
                 </div>
             </section>
             <div class="section">
                 <h2>Education</h2>
                 <div class="item">
-                    <h3>Degree - School Name</h3>
-                    <p>Year of Graduation</p>
+                    <h3> high school diploma - Boone county high school </h3>
+                    <p> 2008 </p>
                 </div>
                 <div class="item">
                     <h3>Degree - School Name</h3>
